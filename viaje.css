@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+    background-image: url(https://justitalia.es/wp-content/uploads/2020/04/Lago-Como-.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+ }
+.a1{-webkit-text-stroke: 1px rgba(28, 31, 228, 0.952);
+    color: transparent;}
+    h1{color: rgb(228, 6, 6);}
+ p{
+    color: rgb(255, 251, 0);
+}
